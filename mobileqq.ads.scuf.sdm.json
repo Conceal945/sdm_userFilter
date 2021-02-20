@@ -1,0 +1,16 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.ads.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": false,
+    "label": "腾讯QQ 广告缓存",
+    "description": "广告缓存文件",
+      "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/"
+    ],
+    "pathContains": [
+        "qbosssplahAD"
+    ]
+}
