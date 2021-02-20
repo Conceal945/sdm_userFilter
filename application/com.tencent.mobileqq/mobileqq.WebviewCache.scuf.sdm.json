@@ -1,0 +1,24 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.WebviewCache.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": false,
+    "label": "腾讯QQ 网页缓存",
+    "description": "缓存到本地的JS或网页布局文件",
+      "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/",
+        "\/data\/data\/com.tencent.mobileqq\/files\/pddata",
+        "\/data\/data\/com.tencent.mobileqq\/files\/qbiz",
+        "\/data\/data\/com.tencent.mobileqq\/files\/WebOfflineRes",
+        "\/data\/data\/com.tencent.mobileqq\/files\/hippy"
+    ],
+    "pathContains": [
+        "webso",
+        "pddata",
+        "qbiz",
+        "WebOfflineRes",
+        "hippy"
+    ]
+}

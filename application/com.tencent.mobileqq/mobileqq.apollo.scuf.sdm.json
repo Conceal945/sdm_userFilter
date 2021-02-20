@@ -1,16 +1,17 @@
 {
     "version": 5,
-    "identifier": "mobileqq.ads.scuf.sdm",
+    "identifier": "mobileqq.apollo.scuf.sdm",
     "color": "#1B813E",
     "rootOnly": false,
-    "label": "腾讯QQ 广告缓存",
-    "description": "广告缓存文件",
+    "label": "腾讯QQ 厘米秀缓存",
+    "description": "缓存到本地的厘米秀资源",
       "mainPath": [
         "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
         "\/storage\/emulated\/0\/Tencent\/",
         "\/storage\/emulated\/0\/tencent\/"
     ],
     "pathContains": [
-        "qbosssplahAD"
+        "MobileQQ\/.apollo"
     ]
 }
+//下次更新注意私有目录

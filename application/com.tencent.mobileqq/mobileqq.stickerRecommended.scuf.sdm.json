@@ -1,0 +1,21 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.stickerRecommended.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": false,
+    "label": "腾讯QQ 表情推荐缓存",
+    "description": "由热图及表情推荐产生的缓存目录",
+    "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/"
+    ],
+    "pathContains": [
+        "zhitu",
+        ".sticker_recommended_pics",
+        "hotpic"
+    ],
+    "exclusions": [
+        ".nomedia"
+    ]
+}

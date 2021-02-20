@@ -1,0 +1,18 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.redPackage.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": false,
+    "label": "腾讯QQ 红包缓存",
+    "description": "缓存到本地的红包封皮等资源",
+      "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/",
+        "\/data\/data\/com.tencent.mobileqq\/files\/QWallet"
+    ],
+    "pathContains": [
+        "QWallet",
+        "RedPacket"
+    ]
+}

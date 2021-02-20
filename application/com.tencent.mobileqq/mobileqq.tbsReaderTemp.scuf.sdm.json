@@ -1,0 +1,17 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.tbsReaderTemp.scuf.sdm",
+    "color": "#DDD23B",
+    "rootOnly": false,
+    "label": "腾讯QQ 文档阅读器缓存",
+    "description": "由TBS文档阅读器创建的文档缓存",
+    "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/"
+    ],
+    "pathContains": [
+        "QQfile_recv\/.TbsReaderTemp"
+    ]
+}
+//部分反馈TBS插件失效

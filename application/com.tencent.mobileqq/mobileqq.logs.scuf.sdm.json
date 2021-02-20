@@ -1,0 +1,27 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.logs.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": false,
+    "label": "腾讯QQ 日志文件",
+    "description": "由程式产生的日志文件",
+    "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/",
+        "\/data\/data\/com.tencent.mobileqq\/files"
+    ],
+    "pathContains": [
+        "MobileQQ\/log",
+        "msflogs",
+        "mini\/files",
+        "wtlogin",
+        "crashinfo",
+        "live_log",
+        "logback",
+        "files\/.info",
+        "onelog",
+        "TMAssistantSDK",
+        "logging_cache"
+    ]
+}

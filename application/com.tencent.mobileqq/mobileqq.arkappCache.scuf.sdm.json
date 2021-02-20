@@ -1,0 +1,13 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.arkappCache.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": true,
+    "label": "腾讯QQ 轻应用缓存",
+    "description": "卡片样式消息所缓存的文件",
+    "mainPath": [
+        "\/data\/data\/com.tencent.mobileqq\/files\/ArkApp"
+    ]
+}
+//20210218  新版QQ已移除Arkapp缓存的外置存储目录
+//list: Arkapp(?:_(qzone|tool))?

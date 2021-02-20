@@ -1,0 +1,18 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.profilecard.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": false,
+    "label": "腾讯QQ 个性名片缓存",
+    "description": "缓存到本地的个性名片资源",
+      "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/",
+        "\/data\/data\/com.tencent.mobileqq\/files\/color_screen"
+    ],
+    "pathContains": [
+        "MobileQQ\/.profilecard",
+        "color_screen"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.bubbleInfo.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": true,
+    "label": "腾讯QQ 个性气泡缓存",
+    "description": "缓存到本地的个性气泡资源",
+    "mainPath": [
+        "\/data\/data\/com.tencent.mobileqq\/files\/bubble_info"
+    ]
+}

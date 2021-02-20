@@ -1,0 +1,27 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.nowPlugin.scuf.sdm",
+    "color": "#E83015",
+    "rootOnly": true,
+    "label": "腾讯QQ 直播插件",
+    "description": "为不需要直播的人准备\n注意：启用后群直播，群课堂等功能将失效，若要恢复，请清除数据后重新登录",
+    "mainPath": [
+        "\/data\/data\/com.tencent.mobileqq\/ShadowPlugin",
+        "\/data\/data\/com.tencent.mobileqq\/files\/IVShadowCdnPmUpdater",
+        "\/data\/data\/com.tencent.mobileqq\/files\/ShadowPlugin",
+        "\/data\/data\/com.tencent.mobileqq\/files\/now",
+        "\/data\/data\/com.tencent.mobileqq\/filesqcircle",
+        "\/data\/data\/com.tencent.mobileqq\/app_qcircleplugin",
+        "\/data\/data\/com.tencent.mobileqq\/files\/ManagerImplLoader",
+        "\/data\/data\/com.tencent.mobileqq\/files\/gvideo",
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq\/files"
+    ],
+    "regexes": [
+        "^(?>\\/data\\/data\\/com\\.tencent\\.mobileqq\\/(?:files\/)?ShadowPlugin\\w+)$",        
+        "^(?>\\/data\\/data\\/com\\.tencent\\.mobileqq\\/(?:filesqcircle|app_qcircleplugin|files\\/(?:now_plugin|IVShadowCdnPmUpdater|ManagerImplLoader|gvideo(_animres)?)))$",
+        "^(?>\\/storage\\/emulated\\/0\\/Android\\/data\\/com.tencent.mobileqq\\/files\\/(?:now|ShadowPlugin\\w+))$",
+        "^(?>\\/storage\\/emulated\\/0\\/Android\\/data\\/com.tencent.mobileqq\\/files\\/)(?:(\\d+?\\/){2}nowplugin_\\w+?\\.zip)$"
+    ]
+}
+///data/data/com.tencent.mobileqq/files/ShadowPluginManager/
+///data/data/com.tencent.mobileqq/files/ManagerImplLoader/

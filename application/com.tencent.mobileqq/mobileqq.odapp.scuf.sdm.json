@@ -1,0 +1,11 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.odapp.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": true,
+    "label": "腾讯QQ 群课堂缓存",
+    "description": "用户头像缓存等",
+    "mainPath": [
+        "\/data\/data\/com.tencent.mobileqq\/files\/Android\/data\/com.tencent.odapp"
+    ]
+}

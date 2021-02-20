@@ -1,0 +1,17 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.msgdb.scuf.sdm",
+    "color": "#E83015",
+    "rootOnly": true,
+    "label": "腾讯QQ 聊天记录",
+    "description": "程式中的私聊以及群聊记录\n警告：清除后只能联网加载漫游时期范围内的消息。清除后如果程式运行不正常请将其强制停止后重启",
+    "mainPath": [
+        "\/data\/data\/com.tencent.mobileqq\/databases"
+    ],
+    "possibleNameEndings": [
+        ".db"
+    ],
+    "regexes": [
+        "^(?>\\/data\\/data\\/com\\.tencent\\.mobileqq\\/databases\\/)(?:\\d+?(?:-IndexQQMsg)?\\.db)$"
+    ]
+}

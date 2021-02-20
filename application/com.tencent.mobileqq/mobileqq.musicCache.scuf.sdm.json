@@ -1,16 +1,17 @@
 {
     "version": 5,
-    "identifier": "mobileqq.ads.scuf.sdm",
+    "identifier": "mobileqq.musicCache.scuf.sdm",
     "color": "#1B813E",
     "rootOnly": false,
-    "label": "腾讯QQ 广告缓存",
-    "description": "广告缓存文件",
-      "mainPath": [
+    "label": "腾讯QQ 音乐缓存",
+    "description": "由一起听以及在线QQ音乐功能创建的缓存目录",
+    "mainPath": [
         "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
         "\/storage\/emulated\/0\/Tencent\/",
         "\/storage\/emulated\/0\/tencent\/"
     ],
     "pathContains": [
-        "qbosssplahAD"
+        "MobileQQ\/qqmusic",
+        "ListenTogether"
     ]
 }

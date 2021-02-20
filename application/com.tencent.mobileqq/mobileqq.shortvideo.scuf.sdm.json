@@ -1,0 +1,19 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.shortvideo.scuf.sdm",
+    "color": "#F05E1C",
+    "rootOnly": false,
+    "label": "腾讯QQ 视频缓存",
+    "description": "对话时加载到本地的视频缓存\n注意：并非用户手动保存到相册的视频",
+    "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/"
+    ],
+    "pathContains": [
+        "MobileQQ\/shortvideo"
+    ],
+    "exclusions": [
+        ".nomedia"
+    ]
+}

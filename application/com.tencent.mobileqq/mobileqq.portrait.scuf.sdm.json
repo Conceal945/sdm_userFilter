@@ -1,0 +1,20 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.portrait.scuf.sdm",
+    "color": "#DDD23B",
+    "rootOnly": false,
+    "label": "腾讯QQ 头像缓存",
+    "description": "缓存到本地的头像图片",
+      "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/"
+    ],
+    "pathContains": [
+        "MobileQQ\/portrait",
+        "MobileQQ\/head"
+    ],
+    "exclusions": [
+        ".nomedia"
+    ]
+}

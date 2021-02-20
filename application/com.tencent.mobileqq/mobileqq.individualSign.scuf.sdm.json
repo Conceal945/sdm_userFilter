@@ -1,16 +1,16 @@
 {
     "version": 5,
-    "identifier": "mobileqq.ads.scuf.sdm",
+    "identifier": "mobileqq.individualSign.scuf.sdm",
     "color": "#1B813E",
     "rootOnly": false,
-    "label": "腾讯QQ 广告缓存",
-    "description": "广告缓存文件",
+    "label": "腾讯QQ 个性签名模板缓存",
+    "description": "缓存到本地的个性签名模板资源",
       "mainPath": [
         "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
         "\/storage\/emulated\/0\/Tencent\/",
         "\/storage\/emulated\/0\/tencent\/"
     ],
     "pathContains": [
-        "qbosssplahAD"
+        "pddata\/vas\/individual_sign"
     ]
 }

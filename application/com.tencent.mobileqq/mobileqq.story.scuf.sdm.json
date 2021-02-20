@@ -1,16 +1,17 @@
 {
     "version": 5,
-    "identifier": "mobileqq.ads.scuf.sdm",
+    "identifier": "mobileqq.story.scuf.sdm",
     "color": "#1B813E",
     "rootOnly": false,
-    "label": "腾讯QQ 广告缓存",
-    "description": "广告缓存文件",
+    "label": "腾讯QQ 日迹缓存",
+    "description": "由日迹创建的缓存文件",
       "mainPath": [
         "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
         "\/storage\/emulated\/0\/Tencent\/",
         "\/storage\/emulated\/0\/tencent\/"
     ],
     "pathContains": [
-        "qbosssplahAD"
+        "qqstory",
+        "rijmmkv"
     ]
 }

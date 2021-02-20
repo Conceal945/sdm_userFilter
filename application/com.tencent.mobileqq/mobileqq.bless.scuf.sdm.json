@@ -1,16 +1,16 @@
 {
     "version": 5,
-    "identifier": "mobileqq.ads.scuf.sdm",
+    "identifier": "mobileqq.bless.scuf.sdm",
     "color": "#1B813E",
     "rootOnly": false,
-    "label": "腾讯QQ 广告缓存",
-    "description": "广告缓存文件",
-      "mainPath": [
+    "label": "腾讯QQ 祝福缓存",
+    "description": "特殊节日触发的祝福创建的缓存目录",
+    "mainPath": [
         "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
         "\/storage\/emulated\/0\/Tencent\/",
         "\/storage\/emulated\/0\/tencent\/"
     ],
     "pathContains": [
-        "qbosssplahAD"
+        "MobileQQ\/bless"
     ]
 }

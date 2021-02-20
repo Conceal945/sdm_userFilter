@@ -1,0 +1,21 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.medal.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": false,
+    "label": "腾讯QQ 标志缓存",
+    "description": "奖章，会员标识图标，段位图标等",
+    "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/"
+    ],
+    "pathContains": [
+        "medal",
+        ".vipicon",
+        "troopgamecard"
+    ],
+    "exclusions": [
+        ".nomedia"
+    ]
+}

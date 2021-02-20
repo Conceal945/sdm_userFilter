@@ -1,0 +1,29 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.cameraRes.scuf.sdm",
+    "color": "#1B813E",
+    "rootOnly": false,
+    "label": "腾讯QQ 拍摄资源缓存",
+    "description": "拍摄时加载到本地的拍摄模板以及AR模型",
+    "mainPath": [
+        "\/storage\/emulated\/0\/Android\/data\/com.tencent.mobileqq",
+        "\/storage\/emulated\/0\/Tencent\/",
+        "\/storage\/emulated\/0\/tencent\/"
+    ],
+    "pathContains": [
+        "MobileQQ\/qav",
+        "MobileQQ\/ptv_",
+        "MobileQQ\/ar_",
+        "MobileQQ\/iar",
+        "MobileQQ\/dov_",
+        "MobileQQ\/capture_",
+        "files\/ae\/"
+    ],
+    "exclusions": [
+        ".nomedia"
+    ]
+}
+//doodle是涂鸦！
+//scribble
+//dov上⚓
+//capture_
