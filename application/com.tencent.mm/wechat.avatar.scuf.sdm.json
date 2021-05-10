@@ -1,0 +1,15 @@
+{
+    "version": 5,
+    "identifier": "mobileqq.portrait.scuf.sdm",
+    "color": "#DDD23B",
+    "rootOnly": true,
+    "label": "微信 头像缓存",
+    "description": "缓存到本地的好友头像",
+      "mainPath": [
+        "\/data\/data\/com.tencent.mm\/MicroMsg"
+    ],
+    "pathContains": [
+        "MobileQQ\/portrait",
+        "\/avatar"
+    ]
+}
